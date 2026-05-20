@@ -235,7 +235,6 @@ Tests cover: query handlers, command handlers, and validation logic using **xUni
 | Global Exception Handling | ✅ |
 | Generic Response Wrapper | ✅ |
 | DTO Usage | ✅ |
-| API Versioning | ✅ |
 | Unit Tests | ✅ |
 | Docker | ✅ |
 | Naming Conventions | ✅ |
